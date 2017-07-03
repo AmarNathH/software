@@ -1,0 +1,11 @@
+/.arcconfig
+/.zsh
+/nixos/configs/secrets/
+
+/shm_tools/shm-online/
+/sensors/3dmg/
+/sonar/
+/notes/
+/misc/3dcontrol/
+/misc/autopics/
+/misc/map/
